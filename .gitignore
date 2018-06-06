@@ -1,0 +1,8 @@
+*.pyc
+venv
+hello
+.DS_Store
+blog
+*.db
+coverage
+tag.py
